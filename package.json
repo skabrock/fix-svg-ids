@@ -1,0 +1,17 @@
+{
+  "name": "fix-svg-ids",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-svgmin": "^4.0.1",
+    "string-hash": "^1.1.3"
+  }
+}
